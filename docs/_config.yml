@@ -21,7 +21,7 @@
 title: SEMIAC - Semantic Environmental Models for Implicit human-robot Action Coordination
 email: sven.wachsmuth@uni-bielefeld.de
 description: >- # this means to ignore newlines until "baseurl:"
-  The project SEMIAC is funded by the German Research Foundation (DFG) under projectnumber 502483052.
+  The project SEMIAC is funded by the German Research Foundation (DFG) under [project number 502483052](https://gepris.dfg.de/gepris/projekt/502483052).
   It's German title is 'Implizite mobile Mensch-Roboter-Kommunikation für die räumliche Handlungskoordination mit aktionsspezifischer semantischer Umgebungsmodellierung.'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
